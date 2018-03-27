@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{130,0},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0016.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{260,0},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{390,0},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0018.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{520,0},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0019.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{650,0},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0020.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{780,0},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0021.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,125},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0022.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,255},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0023.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,385},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0024.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,515},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0025.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,645},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0026.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,775},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/zan/dz_num0027.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{125,125},{130,125}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{130,125}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist_zan.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist_zan.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

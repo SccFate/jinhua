@@ -1,0 +1,94 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "bipoker",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "biPoker/light": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "bc113546-ba9b-4522-92de-749f73ef8c6a"
+                }
+              },
+              {
+                "frame": 0.16666666666666666,
+                "value": {
+                  "__uuid__": "13d4ba6b-2000-4320-bfe4-9407f8f3b22d"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "b2a41a1c-72ee-4ecd-a043-15f5b92d3d24"
+                }
+              },
+              {
+                "frame": 0.5,
+                "value": {
+                  "__uuid__": "37208181-15a4-405f-9d5c-e02a52c6d221"
+                }
+              },
+              {
+                "frame": 0.6666666666666666,
+                "value": {
+                  "__uuid__": "d9860477-e1f0-4891-bed4-1c72792dd72f"
+                }
+              },
+              {
+                "frame": 0.8333333333333334,
+                "value": {
+                  "__uuid__": "77b198f6-c540-4759-b1c1-350a0c649b43"
+                }
+              },
+              {
+                "frame": 1,
+                "value": {
+                  "__uuid__": "abc5aca5-1617-46c4-9c74-5010c471dd9d"
+                }
+              },
+              {
+                "frame": 1.1666666666666667,
+                "value": {
+                  "__uuid__": "5547cb89-81d4-4e02-a32c-3fa735540156"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "biPoker/opacityBack": {
+        "props": {
+          "height": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 500
+            }
+          ]
+        }
+      },
+      "biPoker": {
+        "props": {}
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 2,
+      "func": "end",
+      "params": []
+    }
+  ]
+}

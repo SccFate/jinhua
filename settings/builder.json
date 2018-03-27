@@ -1,0 +1,24 @@
+{
+  "appKey": "",
+  "appSecret": "",
+  "excludeScenes": [],
+  "includeAnySDK": false,
+  "includeSdk": [
+    "anysdk"
+  ],
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2dx.javascript",
+  "privateKey": "",
+  "renderMode": "0",
+  "startScene": "6ee8558c-5fea-4f14-8e84-817c446c2b08",
+  "title": "game",
+  "webOrientation": "auto"
+}

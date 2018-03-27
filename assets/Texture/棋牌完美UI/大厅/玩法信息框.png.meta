@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ddca7dcd-1b03-45a9-8773-b88969047034",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "玩法信息框": {
+      "ver": "1.0.3",
+      "uuid": "d418d94c-435f-4511-9e8f-b4498d1d8d3e",
+      "rawTextureUuid": "ddca7dcd-1b03-45a9-8773-b88969047034",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 41,
+      "trimX": 140,
+      "trimY": 9,
+      "width": 474,
+      "height": 100,
+      "rawWidth": 750,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

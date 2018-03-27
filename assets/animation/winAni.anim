@@ -1,0 +1,167 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "winAni",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.92,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "back": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "1852b4fd-a831-4f0c-8841-2c70728794f6"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 1
+            },
+            {
+              "frame": 1.5,
+              "value": 1
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 0
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 1
+            },
+            {
+              "frame": 1.5,
+              "value": 1
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "b": {
+        "props": {
+          "scaleX": [],
+          "scaleY": [],
+          "opacity": [
+            {
+              "frame": 1.0833333333333333,
+              "value": 255
+            },
+            {
+              "frame": 1.9,
+              "value": 20
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 0
+            }
+          ]
+        },
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "551fdf9d-fab7-4ab9-b9d2-7825d9526bb5"
+                }
+              }
+            ]
+          }
+        }
+      },
+      "win": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "d6c4ea41-0bac-45b5-a37f-a7856bbb23e2"
+                }
+              }
+            ]
+          }
+        },
+        "props": {
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 1
+            },
+            {
+              "frame": 1.5,
+              "value": 1.3
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 0
+            }
+          ],
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.5,
+              "value": 1
+            },
+            {
+              "frame": 1.0833333333333333,
+              "value": 1
+            },
+            {
+              "frame": 1.5,
+              "value": 1.3
+            },
+            {
+              "frame": 1.9166666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

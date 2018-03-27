@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b1240eef-e59c-4582-9630-42a1389e64e3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "搓牌": {
+      "ver": "1.0.3",
+      "uuid": "c1910ef5-8cb9-48a5-ae82-b63265510e09",
+      "rawTextureUuid": "b1240eef-e59c-4582-9630-42a1389e64e3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 15.5,
+      "offsetY": -58.5,
+      "trimX": 149,
+      "trimY": 273,
+      "width": 133,
+      "height": 71,
+      "rawWidth": 400,
+      "rawHeight": 500,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

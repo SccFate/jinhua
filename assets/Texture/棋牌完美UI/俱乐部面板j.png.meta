@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "91e0ca26-be74-4ecd-a1a7-1a6b7a31f191",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "俱乐部面板j": {
+      "ver": "1.0.3",
+      "uuid": "e366c9cb-06a1-4cae-9c7c-89b9e3246559",
+      "rawTextureUuid": "91e0ca26-be74-4ecd-a1a7-1a6b7a31f191",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2,
+      "offsetY": 8.5,
+      "trimX": 127,
+      "trimY": 111,
+      "width": 350,
+      "height": 461,
+      "rawWidth": 600,
+      "rawHeight": 700,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3aa7aa9b-d7be-43af-a555-61b3215359b7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "玩家信息框": {
+      "ver": "1.0.3",
+      "uuid": "79cb64cc-f97b-464d-8190-ca20bd6614d7",
+      "rawTextureUuid": "3aa7aa9b-d7be-43af-a555-61b3215359b7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 200,
+      "height": 250,
+      "rawWidth": 200,
+      "rawHeight": 250,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

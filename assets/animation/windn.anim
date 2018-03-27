@@ -1,0 +1,84 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "win",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.79,
+  "sample": 100,
+  "speed": 0.3,
+  "wrapMode": 0,
+  "curveData": {
+    "paths": {
+      "winback": {
+        "comps": {
+          "cc.Sprite": {}
+        }
+      },
+      "New Label": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.35,
+              "value": 255
+            },
+            {
+              "frame": 0.7,
+              "value": 255
+            },
+            {
+              "frame": 0.79,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                61
+              ]
+            },
+            {
+              "frame": 0.35,
+              "value": [
+                0,
+                113
+              ]
+            },
+            {
+              "frame": 0.7,
+              "value": [
+                0,
+                113
+              ]
+            },
+            {
+              "frame": 0.79,
+              "value": [
+                0,
+                117
+              ]
+            }
+          ],
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 2,
+                "g": 253,
+                "b": 122,
+                "a": 255
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

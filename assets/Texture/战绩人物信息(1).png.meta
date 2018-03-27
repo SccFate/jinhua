@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "8042db4d-4b94-4bb3-b26b-86ab92015299",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "战绩人物信息(1)": {
+      "ver": "1.0.3",
+      "uuid": "f92cbbce-8014-4249-b5ef-216ae99d215c",
+      "rawTextureUuid": "8042db4d-4b94-4bb3-b26b-86ab92015299",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": 0.5,
+      "trimX": 9,
+      "trimY": 6,
+      "width": 378,
+      "height": 187,
+      "rawWidth": 400,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

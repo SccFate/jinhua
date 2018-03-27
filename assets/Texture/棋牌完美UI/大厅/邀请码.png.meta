@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "501f890c-e579-4cc9-8749-9b56747591e9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "邀请码": {
+      "ver": "1.0.3",
+      "uuid": "cbaeee11-46e8-4259-88aa-d2a839027ec6",
+      "rawTextureUuid": "501f890c-e579-4cc9-8749-9b56747591e9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -120,
+      "offsetY": 129,
+      "trimX": 36,
+      "trimY": 17,
+      "width": 88,
+      "height": 108,
+      "rawWidth": 400,
+      "rawHeight": 400,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

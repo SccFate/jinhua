@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2f87c8c4-5a9b-4027-a57e-9e9a1095002e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "createroom_daoshu": {
+      "ver": "1.0.3",
+      "uuid": "97e9c4f6-5026-4c9f-ae64-b74e84c9d6cf",
+      "rawTextureUuid": "2f87c8c4-5a9b-4027-a57e-9e9a1095002e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 55,
+      "height": 27,
+      "rawWidth": 55,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

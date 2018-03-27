@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guomove",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.5,
+  "sample": 20,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -308,
+            -374
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.5,
+          "value": 0.6
+        }
+      ],
+      "scaleY": [
+        {
+          "frame": 0,
+          "value": 1
+        },
+        {
+          "frame": 0.5,
+          "value": 0.6
+        }
+      ]
+    }
+  },
+  "events": []
+}

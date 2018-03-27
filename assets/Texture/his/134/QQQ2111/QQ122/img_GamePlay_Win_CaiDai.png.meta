@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d9360587-ed59-4089-ba1e-f3e7cb3bd539",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_GamePlay_Win_CaiDai": {
+      "ver": "1.0.3",
+      "uuid": "1852b4fd-a831-4f0c-8841-2c70728794f6",
+      "rawTextureUuid": "d9360587-ed59-4089-ba1e-f3e7cb3bd539",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 508,
+      "height": 123,
+      "rawWidth": 508,
+      "rawHeight": 124,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

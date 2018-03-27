@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_1.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{320,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{320,256}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_10.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{256,0},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_11.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{256,264},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_12.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{256,528},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_13.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{496,0},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_14.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{496,264},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_15.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{496,528},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_2.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,320},{320,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{320,256}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_3.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,640},{320,256}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{320,256}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_4.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{736,0},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_5.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{736,264},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_6.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{736,528},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_7.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{976,0},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_8.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{976,264},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+			<key>Games/SCMJ/animation2/fly/anim_aircraft_9.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{976,528},{264,240}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{264,240}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>Plist_fly.png</string>
+			<key>realTextureFileName</key>
+			<string>Plist_fly.png</string>
+			<key>size</key>
+			<string>{2048,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

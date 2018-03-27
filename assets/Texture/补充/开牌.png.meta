@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d20b58f6-42fd-4062-baaf-f9333c3141f6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "开牌": {
+      "ver": "1.0.3",
+      "uuid": "482869e1-ed1a-4ebe-8703-65c885ea594e",
+      "rawTextureUuid": "d20b58f6-42fd-4062-baaf-f9333c3141f6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 15.5,
+      "offsetY": -70,
+      "trimX": 149,
+      "trimY": 296,
+      "width": 133,
+      "height": 48,
+      "rawWidth": 400,
+      "rawHeight": 500,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

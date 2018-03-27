@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "31c1a886-a97b-4f4a-880a-7c330a1decbb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "招募伙伴": {
+      "ver": "1.0.3",
+      "uuid": "49083c96-bed1-4861-b327-ba344f976973",
+      "rawTextureUuid": "31c1a886-a97b-4f4a-880a-7c330a1decbb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 4,
+      "offsetY": -2,
+      "trimX": 81,
+      "trimY": 28,
+      "width": 146,
+      "height": 48,
+      "rawWidth": 300,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

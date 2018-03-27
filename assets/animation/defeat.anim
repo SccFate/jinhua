@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "defeat",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.8,
+  "sample": 100,
+  "speed": 0.3,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "New Label": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                52
+              ]
+            },
+            {
+              "frame": 0.35,
+              "value": [
+                0,
+                224
+              ]
+            },
+            {
+              "frame": 0.7,
+              "value": [
+                0,
+                224
+              ]
+            },
+            {
+              "frame": 0.8,
+              "value": [
+                0,
+                224
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.35,
+              "value": 255
+            },
+            {
+              "frame": 0.7,
+              "value": 255
+            },
+            {
+              "frame": 0.8,
+              "value": 0
+            }
+          ],
+          "color": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Color",
+                "r": 91,
+                "g": 32,
+                "b": 241,
+                "a": 255
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

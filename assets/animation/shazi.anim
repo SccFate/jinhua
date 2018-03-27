@@ -1,0 +1,95 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shazi",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.43,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "bbfb3829-487d-4d23-aa41-01be91f8cf31"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "02d6e55b-f8bd-4996-b577-6a60f0b14c33"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "c0eb91b3-7933-4047-929e-90c909fdd547"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "821e6af5-258f-41fa-aeab-f4df5db89725"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "eb8b05a2-6502-4dfd-9435-18c1b1d6c26c"
+            }
+          },
+          {
+            "frame": 0.4166666666666667,
+            "value": {
+              "__uuid__": "0c64ec8d-5477-45f3-bed3-a23ab2d20fcd"
+            }
+          }
+        ]
+      }
+    },
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 60
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 60
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": 120
+        },
+        {
+          "frame": 0.15,
+          "value": 120
+        },
+        {
+          "frame": 0.16666666666666666,
+          "value": 180
+        },
+        {
+          "frame": 0.23333333333333334,
+          "value": 180
+        },
+        {
+          "frame": 0.25,
+          "value": 240
+        },
+        {
+          "frame": 0.31666666666666665,
+          "value": 240
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 360
+        }
+      ]
+    }
+  },
+  "events": []
+}
